@@ -51,7 +51,6 @@ const data: DataInterface = {
 
 const image = ref("image.png");
 </script>
-
 <template>
   <div>
     <img :src="image" alt="" />
